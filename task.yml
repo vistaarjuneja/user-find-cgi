@@ -1,4 +1,4 @@
 task:
   run:
     go:
-      module: github.com/vistaarjuneja/user-find-cgi
+      module: example.com
